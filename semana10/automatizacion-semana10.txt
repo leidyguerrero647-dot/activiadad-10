@@ -1,0 +1,4 @@
+Evento: nuevo reporte registrado en el sistema de veeduría comunitaria.
+Acción: enviar un mensaje a un canal o grupo de Telegram para alertar al equipo.
+Mensaje: "Nuevo reporte recibido. Revisar el sistema de seguimiento comunitario cuando puedan." 
+Información que no debe enviarse: nombres completos, documentos de identidad, direcciones, teléfonos, claves o datos sensibles.

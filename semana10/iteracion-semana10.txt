@@ -1,0 +1,14 @@
+Tareas que haría primero:
+1. Registrar una incidencia en un formulario comunitario.
+2. Enviar una alerta en Telegram cuando se reciba un nuevo reporte.
+
+¿Por qué son las más importantes?
+Porque permiten capturar evidencia del problema y avisar al equipo rápidamente, lo que facilita la respuesta colaborativa.
+
+¿Qué significa para mí que una tarea esté “terminada”?
+Significa que la funcionalidad está desarrollada, probada y documentada.
+
+Definición de terminado:
+- Funciona según lo esperado.
+- Fue probada al menos una vez.
+- Quedó registrada en Git con un commit y un mensaje claro.
